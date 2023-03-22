@@ -10,7 +10,7 @@
 </div>
 <br/>
 <div>
-    <a href="https://dsc.bio/salles">
+    <a href="https://discord.com/users/405906023896055808">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=psallesdeveloper@gmail.com&tf=cm">
