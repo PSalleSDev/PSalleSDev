@@ -1,7 +1,7 @@
 # Welcome
 
 - 📁 I’m currently working on embed devices, remote acess malware and malware anti debug.
-- 🔌 I’m currently learning about LoRa, RFID and hardware engineering.
+- 🔌 I’m currently learning about LoRa, RFID and hardware engineering
 <br/>
 <div>
     <a href="https://github.com/psallesdev">
