@@ -15,6 +15,9 @@
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=30&height=46&lines=!(" />
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=C286B6&center=true&multiline=true&repeat=false&width=180&height=46&lines=%22Welcome...%22" />
     </div>
+    <div>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=46&lines=%7D"/>
+    </div>
 </div>
 
 
