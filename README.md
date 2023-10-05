@@ -1,22 +1,22 @@
 <div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=74D2CE&multiline=true&repeat=false&width=30&height=40&lines=fn"/>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&center=true&multiline=true&repeat=false&width=75&height=40&lines=main"/>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=30&height=40&lines=()"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&center=true&multiline=true&repeat=false&width=75&height=40&lines=main"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=30&height=40&lines=()"/>
     </div>
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%7B"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%7B"/>
     </div>
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&repeat=false&width=50&height=40&lines=%E3%85%A4" />
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=a8cc5c&repeat=false&width=105&height=40&lines=println" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=B8B8B8&repeat=false&width=50&height=40&lines=%E3%85%A4" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=a8cc5c&repeat=false&width=105&height=40&lines=println" />
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=30&height=40&lines=!(" />
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=C286B6&repeat=false&width=180&height=40&lines=%22Welcome...%22" />
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=30&height=40&lines=)%3B" />
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%3B" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=C286B6&repeat=false&width=180&height=40&lines=%22Welcome...%22" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=30&height=40&lines=)%3B" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%3B" />
     </div>
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=45&lines=%7D"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=45&lines=%7D"/>
     </div>
 </div>
 
