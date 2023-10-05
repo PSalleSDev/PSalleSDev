@@ -11,7 +11,7 @@
     </div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=50&height=46&lines=%E3%85%A4" />
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=105&height=46&lines=println" />
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=a8cc5c&repeat=false&width=105&height=46&lines=println" />
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=46&lines=(" />
     </div>
 </div>
