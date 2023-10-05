@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=1&size=29&duration=1000&pause=1&color=EFEFEF&center=true&multiline=true&repeat=false&width=1000&height=43&separator=%3C&lines=bom+dia;)](https://git.io/typing-svg)
 <div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=74D2CE&multiline=true&repeat=false&width=30&height=40&lines=fn"/>
@@ -14,6 +13,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=30&height=40&lines=!(" />
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=C286B6&repeat=false&width=180&height=40&lines=%22Welcome...%22" />
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=)%3B" />
+        [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=1&size=29&duration=1000&pause=1&color=EFEFEF&multiline=true&repeat=false&width=15&height=43&separator=%3C&lines=;)](https://git.io/typing-svg)
     </div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&center=true&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=50&lines=%7D"/>
