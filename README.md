@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2E7BE4&center=true&width=435&lines=Welcome...)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2E7BE4&center=true&multiline=true&width=600&height=60&lines=%E2%80%A2+%F0%9F%93%81+I%E2%80%99m+currently+working+on+embed+devices%2C+remote+acess+malware+and+malware+anti+debug." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2E7BE4&center=true&multiline=true&width=1000&height=60&lines=%E2%80%A2+%F0%9F%93%81+I%E2%80%99m+currently+working+on+embed+devices%2C+remote+acess+malware+and+malware+anti+debug." alt="Typing SVG" /></a>
 - 📁 I’m currently working on embed devices, remote acess malware and malware anti debug.
 - 🔌 I’m currently learning about LoRa, RFID and hardware engineering.
 <br/>
