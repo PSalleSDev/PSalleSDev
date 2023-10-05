@@ -1,4 +1,4 @@
-# Welcome
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2E7BE4&center=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 - 📁 I’m currently working on embed devices, remote acess malware and malware anti debug.
 - 🔌 I’m currently learning about LoRa, RFID and hardware engineering.
