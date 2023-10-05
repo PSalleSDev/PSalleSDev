@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=30&height=40&lines=()"/>
     </div>
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%7B"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=45&lines=%7B"/>
     </div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&repeat=false&width=50&height=40&lines=%E3%85%A4" />
@@ -16,7 +16,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%3B" />
     </div>
     <div>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=40&lines=%7D"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=45&lines=%7D"/>
     </div>
 </div>
 
