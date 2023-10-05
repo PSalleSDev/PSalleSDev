@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=E6EDF3&multiline=true&repeat=false&width=1000&height=150&separator=%3C&lines=fn+main()%3C%7B%3C%E3%85%A4%E3%85%A4println!(%22welcome...%22);%3C%7D)](https://git.io/typing-svg)
-
 <div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=74D2CE&multiline=true&repeat=false&width=30&height=46&lines=fn"/>
