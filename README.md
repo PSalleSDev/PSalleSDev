@@ -2,6 +2,7 @@
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=74D2CE&multiline=true&repeat=false&width=30&height=46&lines=fn"/>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&multiline=true&repeat=false&width=61&height=46&lines=main"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=30&height=46&lines=()"/>
     </div>
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=15&height=46&lines=%7B" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&repeat=false&width=105&height=46&lines=println" alt="Typing SVG" />
