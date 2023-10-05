@@ -1,4 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=E6EDF3&multiline=true&repeat=false&width=1000&height=150&separator=%3C&lines=fn+main()%3C%7B%3C%E3%85%A4%E3%85%A4println!(%22welcome...%22);%3C%7D)](https://git.io/typing-svg)
+<style>
+    .title {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .title > div {
+        display: flex;
+        flex-direction: row;
+    }
+</style>
+
+<div>
+    <div>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=1976D2&multiline=true&repeat=false&width=30&height=46&lines=fn" alt="Typing SVG" />
+    </div>
+</div>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=15&pause=1000&color=E6EDF3&multiline=true&repeat=false&width=1000&height=30&lines=%E2%80%A2+%F0%9F%93%81+I'm+currently+working+on+embed+devices%2C+remote+acess+malware+and+malware+anti+debug.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=15&pause=1000&color=E6EDF3&multiline=true&repeat=false&width=1000&height=30&lines=%E2%80%A2+%F0%9F%94%8C+I+'m+currently+learning+about+LoRa%2C+RFID+and+hardware+engineering.)](https://git.io/typing-svg)
