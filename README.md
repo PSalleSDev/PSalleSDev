@@ -1,7 +1,7 @@
 <div>
     <div>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=74D2CE&multiline=true&repeat=false&width=40&height=40&lines=fn"/>
-        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&multiline=true&repeat=false&width=65&height=40&lines=main"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=EFEFEF&multiline=true&repeat=false&width=60&height=40&lines=main"/>
         <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=29&duration=1000&pause=1&color=B8B8B8&multiline=true&repeat=false&width=30&height=40&lines=()"/>
     </div>
     <div>
