@@ -27,8 +27,8 @@
 <br/>
 <div>
         <a href="https://github.com/psallesdev">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=psallesdev&show_icons=true&bg_color=161B22&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psallesdev&layout=compact&langs_count=16&bg_color=161B22"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=psallesdev&show_icons=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psallesdev&layout=compact&langs_count=16&bg_color=0d1117"/>
     </div>
 <br/>
 <div>
