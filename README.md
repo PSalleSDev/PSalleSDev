@@ -3,5 +3,3 @@
 
 |![](https://github-readme-activity-graph.vercel.app/graph?username=psallesdev&custom_title=ㅤ&hide_border=true&theme=github-compact)|
 |--|
-
-![snake gif](https://github.com/PSalleSDev/PSalleSDev/blob/output/github-contribution-grid-snake.svg)
